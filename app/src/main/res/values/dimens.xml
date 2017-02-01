@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="etTextSize">20sp</dimen>
+    <dimen name="buttonPadd">50dp</dimen>
+    <dimen name="brandNameSize">25sp</dimen>
+    <dimen name="five">5dp</dimen>
+    <dimen name="twentyfive">25dp</dimen>
+
+</resources>
